@@ -1,6 +1,6 @@
 # Dark Souls Fan Page
 
-Descrição
+# Descrição
 Este projeto é uma página de fãs dedicada ao jogo Dark Souls Remastered. O site inclui informações sobre a história do jogo, mapas, chefes, armas e outros elementos icônicos. É uma homenagem aos jogadores e entusiastas da série, com o objetivo de compartilhar detalhes, dicas e informações úteis.
 
 Estrutura do Projeto
